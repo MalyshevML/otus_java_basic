@@ -3,6 +3,7 @@ package Homework2;
 import java.util.Base64;
 import java.util.Scanner;
 
+
 // Установить JDK и среду разработки
 // Открыть данный класс в IDE
 // Скомпилировать данный класс с помощью команды javac.
